@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'helvetica neue';
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+button{
+  margin: 10px;
+}
+input{
+  margin: 10px;
+  padding: 10px 20px;
+}
+.box{
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  margin: 10px 20px;
+
+}
+.page1{
+  height: 100vh;
+  width: 100%;
+  background-color: #111;
+}
+.page2{
+  height: 100vh;
+  width: 100%;
+  background-color: #6d4a4a;
+}
+.page3{
+  height: 100vh;
+  width: 100%;
+  background-color: #cec7c7;
+}
